@@ -1,0 +1,2 @@
+# god-hates-dinosaurs
+A silly comic book created in the style of a Chick Tract, those small religious books people hand out on street corners and malls. This book was created as part of the 24hr Comic Book Day challenge, then printed up and handed out to a thousand strangers in San Francisco. My hope in open sourcing this project is that people will remix, translate, and distribute their own versions of this silly book. 
